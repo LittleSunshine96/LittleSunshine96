@@ -13,7 +13,9 @@ The solutions implemented in this program determine the country for which langua
  #include <stdio.h> was used to perform various function for input and output. 
  To make sure that the outcome was random for the user we used a void generator for each choice. 
 
-     Integers used were choice and second choice to determine each option choice. 
+    [Final-languages-and-Spealist (2).zip](https://github.com/LittleSunshine96/LittleSunshine96/files/8850631/Final-languages-and-Spealist.2.zip)
+[Final-languages-and-Spealist (2).zip](https://github.com/LittleSunshine96/LittleSunshine96/files/8850634/Final-languages-and-Spealist.2.zip)
+Integers used were choice and second choice to determine each option choice. 
  The switch statement allows a variable to be tested for equality against a list of values. 
  Each value is called a case, and the variable being switched on is checked for each case. 
  We used char type to store characters and letters for the specialization. 
