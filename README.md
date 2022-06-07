@@ -2,6 +2,7 @@
 Team Name: MindingCoder’s
 Name: Ciara Jones/ Cody Lombardi
 Date:06/01/2022
+[Final-languages-and-Spealist.2.zip](https://github.com/LittleSunshine96/LittleSunshine96/files/8850659/Final-languages-and-Spealist.2.zip)
 
  Hi today me and my partner created a program that will match a doctor with their chosen language and medical specialization to a matching country.
 The solutions implemented in this program determine the country for which language option is chosen. In this case, the University of California Riverside annually selects 100 graduates to participate in the Doctors without Borders program. These physicians are matched based on specialized areas, language fluency, and preferences. Each pair of participants are given the opportunity to aid on-site physicians for 60 days. Currently, Doctors without Borders expand to over 10 countries.
@@ -12,15 +13,11 @@ The solutions implemented in this program determine the country for which langua
  Each of the following was used for calculation: #include <cstdlib>#include <ctime>#include <cmath>#include <time.h>. 
  #include <stdio.h> was used to perform various function for input and output. 
  To make sure that the outcome was random for the user we used a void generator for each choice. 
-
-    [Final-languages-and-Spealist (2).zip](https://github.com/LittleSunshine96/LittleSunshine96/files/8850631/Final-languages-and-Spealist.2.zip)
-[Final-languages-and-Spealist (2).zip](https://github.com/LittleSunshine96/LittleSunshine96/files/8850634/Final-languages-and-Spealist.2.zip)
-Integers used were choice and second choice to determine each option choice. 
+ Integers used were choice and second choice to determine each option choice. 
  The switch statement allows a variable to be tested for equality against a list of values. 
  Each value is called a case, and the variable being switched on is checked for each case. 
  We used char type to store characters and letters for the specialization. 
-     
-     Lastly, we used srand(time(0)); // to Initialize the random number generator for the program to initialize the random seed. 
+ Lastly, we used srand(time(0)); // to Initialize the random number generator for the program to initialize the random seed. 
  As well as the probability from the multiplication of the given languages and specializations which is five languages and five specializations. 
  The calculations that were used to solve this program included multiplication and division to provide an accurate probability for the program to run correctly.
 
